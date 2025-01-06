@@ -1,6 +1,6 @@
 {
     "general": {
-        "name": "Name Surname",
+        "name": "Let's Open-Source",
         "headline": "Short headline about yourself",
         "about": [
             "Hey there! 👋",
@@ -8,9 +8,9 @@
             "And why not adding a second paragraph? Then you can tell us more about your hobbies and your life. Some people will read it and be happy to get to know you a little better."
         ],
         "socials": {
-            "email": "example@mail.com",
-            "linkedin": "https://www.linkedin.com/",
-            "github": "https://github.com/"
+            "email": "utkarshkonwar@mail.com",
+            "linkedin": "https://www.linkedin.com/in/utkarshkonwar/",
+            "github": "https://github.com/utkarshkonwar/letsopensource"
         }
     },
     "experiences": [
@@ -125,6 +125,13 @@
         "description": "Short description of your project.",
         "href": "",
         "stars": "1,999"
-        } 
+        } ,
+        {
+         "name": "example-project-2",
+         "framework": "flutter",
+         "description": "Short description of your project.",
+         "href": "",
+         "stars": "1,999"
+         } 
     ]
 }
