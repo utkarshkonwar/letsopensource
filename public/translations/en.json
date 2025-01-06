@@ -1,11 +1,20 @@
 {
     "general": {
         "name": "Let's Open-Source",
-        "headline": "Short headline about yourself",
+        "headline": "Where Your Open Source Journey Starts",
         "about": [
             "Hey there! 👋",
-            "This should be a first short paragraph about yourself. Tell us something about yourself, your education or your career.",
-            "And why not adding a second paragraph? Then you can tell us more about your hobbies and your life. Some people will read it and be happy to get to know you a little better."
+            "At Let's Open Source, we're a bunch of open-source enthusiasts that want to help you showcase your work and experience in a clean and simple way. We believe that everyone should have the opportunity to share their work and get recognized for it.",
+                        "We regularly update the database with new features and improvements. If you have any suggestions or feedback, feel free to reach out to us on our socials or open an issue on our GitHub repository."
+
+
+
+
+
+
+
+
+
         ],
         "socials": {
             "email": "utkarshkonwar@mail.com",
@@ -57,23 +66,19 @@
     ],
     "education": [
         {
-            "subject": "University Subject",
-            "degree": "Master of Science",
-            "university": "University Name", 
+            "name": "example-project-2",
+            "framework": "flutter",
+            "description": "Short description of your project.",
             "href": "",
-            "startDate": "2022", 
-            "endDate": "NOW", 
-            "description": "Short description of your degree."
-        },
-        {
-            "subject": "University Subject",
-            "degree": "Bachelor of Science",
-            "university": "University Name", 
-            "href": "",
-            "startDate": "2017", 
-            "endDate": "2020", 
-            "description": "Short description of your degree."
-        }
+            "stars": "1,999"
+            } ,
+            {
+             "name": "example-project-2",
+             "framework": "flutter",
+             "description": "Short description of your project.",
+             "href": "",
+             "stars": "1,999"
+             } 
     ],
     "volunteering": [
         {

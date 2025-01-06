@@ -10,7 +10,7 @@ const Credits = (props) => {
                 <div className='flex flex-row justify-between'>
                     {/* <a href="/imprint" rel="noopener noreferrer" className="scroll-auto transition-all hover:text-on-background">Imprint</a> */}
                     <a href="/privacy" rel="noopener noreferrer" className="scroll-auto transition-all hover:text-on-background">Privacy Statement</a>
-                    <span>{props.data.name} | 2023</span>
+                    <span>{props.data.name} | 2025</span>
                 </div>
             </div>
         </div>
