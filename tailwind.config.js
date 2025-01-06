@@ -32,7 +32,13 @@ module.exports = {
       // },
       // 'on-background': '#ffffff',
       /* */
-      /* :: Color Palette: Yellow and Dark Grey*/  
+      /* :: Color Palette: Yellow and Dark Grey*/ 
+      
+      
+    
+
+
+      
       'primary': {
         100: '#ffc107',
         200: '#ffc83b',
@@ -42,14 +48,17 @@ module.exports = {
         600: '#ffe3a2'
       },
       'surface': {
-        100: '#121212',
+        100: '#09090B',
         200: '#282828',
-        300: '#3f3f3f',
-        400: '#575757',
-        500: '#717171',
-        600: '#8b8b8b'
+        300: '#831843',
+        400: '#831843',
+        500: '#831843',
+        600: '#94A3B8'
       },
       'on-background': '#ffffff',
+      
+
+
       
       /* :: Color Palette: Orange and Dark Blue
       'primary': {
